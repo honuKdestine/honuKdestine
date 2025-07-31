@@ -1,9 +1,9 @@
 <h1 align="center">👋Hey there, I'm Destine Kofi Honu</h1>
 <h3 align="center">I’m a Computer Science student at Kwame Nkrumah University of Science and Technology (KNUST) with a strong passion for front-end development, mobile app design, and building sleek user interfaces with React Native. I love creating smooth, responsive experiences that users enjoy. I'm also the co-creator of InSnip — a Snapchat-style app designed for sharing quick snippets of life in a fun, fast, and intuitive way. Let’s build the future, one line of code at a time.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=philipthebackenddeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="philipthebackenddeveloper" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=honuKdestine&label=Profile%20views&color=0e75b6&style=flat" alt="honuKdestine" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philipthebackenddeveloper" alt="philipthebackenddeveloper" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=honuKdestine" alt="honuKdestine" /></a> </p>
 
 - 🔭 I’m currently working on [Ruba](https://github.com/RUBA-APP)
 
@@ -25,6 +25,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=philipthebackenddeveloper&show_icons=true&locale=en&layout=compact" alt="philipthebackenddeveloper" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=honuKdestine&show_icons=true&locale=en&layout=compact" alt="honuKdestine" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=philipthebackenddeveloper&show_icons=true&locale=en" alt="philipthebackenddeveloper" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=honuKdestine&show_icons=true&locale=en" alt="honuKdestine" /></p>
